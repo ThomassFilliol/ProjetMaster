@@ -15,7 +15,6 @@ function Connexion(){
             }else{
                 alert("Un des champs un incorrect");
             }
-
         }
 
     }
